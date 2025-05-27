@@ -25,7 +25,7 @@ A modern React-based dashboard that allows teachers to manage lectures and get r
 1. **Clone the Repository**
 
    ```bash
-   git clone 
+   git clone https://github.com/LavetBen/CodelFrontend
    cd scheduler
 2. npm install
 3. npm start
